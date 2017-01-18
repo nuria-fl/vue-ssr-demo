@@ -1,0 +1,16 @@
+{
+  "name": "ssr-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "vue": "^2.1.9",
+    "vue-server-renderer": "^2.1.9"
+  }
+}
